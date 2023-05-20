@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Php, Java, Javascript**
 
-- 📝 I regularly write articles on [https://itinfoin.blogspot.com/](https://itinfoin.blogspot.com/)
+- 📝 I regularly write articles on [Blogspot](https://itinfoin.blogspot.com/)
 
 - 📫 How to reach me **diki725@gmail.com**
 
-- 📄 Know about my experiences [https://cvkuweb.000webhostapp.com/](https://cvkuweb.000webhostapp.com/)
+- 📄 Know about my experiences [Ciruculum Vitae](https://cvkuweb.000webhostapp.com/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
