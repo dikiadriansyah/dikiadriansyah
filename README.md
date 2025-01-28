@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/adrdiki67" target="blank"><img src="https://img.shields.io/twitter/follow/adrdiki67?logo=twitter&style=for-the-badge" alt="adrdiki67" /></a> </p>
 
-- 🌱 I’m currently learning **Php, Java, Javascript, Dart, Python**
+- 🌱 I’m currently learning **Php, Java, Javascript, Dart, Python, C#, Kotlin, Mysql, Figma**
 
 - 📝 I regularly write articles on [Blogspot](https://itinfoin.blogspot.com/)
 
