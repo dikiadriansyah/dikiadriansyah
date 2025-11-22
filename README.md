@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **diki725@gmail.com**
 
-- 📄 Know about my experiences [Ciruculum Vitae](https://cvkuweb.000webhostapp.com/)
+- 📄 Know about my experiences [Ciruculum Vitae](https://diksgroup.com/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
